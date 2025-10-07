@@ -19,7 +19,8 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+              "src/assets/Omegapoint-logo-symbol-black.svg"
             ],
             "styles": [
               "src/styles.css"
